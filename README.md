@@ -1,1 +1,1 @@
-# eating-disorders
+Research project codebase analysing r/EatingDisorders
